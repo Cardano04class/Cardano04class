@@ -1,20 +1,20 @@
-<h1 align="center">Hello there 👋, I'm Mohamed Amine Amir</h1>
+<h1 align="center">Hello there 👋, I'm Cardano_class</h1>
 <h3 align="center">A passionate learner diving into the world of programming. Currently on a journey to master C programming and explore its endless possibilities. Excited to collaborate, learn, and grow with the vibrant coding community!</h3>
 
 ![](https://komarev.com/ghpvc/?username=Amine04Amir)
 
 ## 📍 Notes:
 
-- 🔭 I’m currently working on **Philosophers**
+- 🔭 I’m currently working on **Automation projects**
 
 - 🌱 I’m currently learning ****C****
 
-- 📫 Reach out on **mohamed.amine04amir@gmail.com**
+- 📫 Reach out on **cardano_class@proton.me**
 
 - ⚡ Fun fact **A simple fun fact about the C programming language is that its name, "C," was chosen because it came after the B programming language. Dennis Ritchie, one of the creators of C, named it simply by moving one letter up in the alphabet from B.**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100033585816499 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed.a.amir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedamineamir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cardano_class) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cardano_class) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
