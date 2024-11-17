@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Automation projects**
 
-- 🌱 In the journey of learning **C**
+- 🌱 In the journey of learning **C** and **C++** programming language
 
 - 📫 Reach out on **cardano_class@proton.me**
 
-- ⚡ Fun fact **A simple fun fact about the C programming language is that its name, "C," was chosen because it came after the B programming language. Dennis Ritchie, one of the creators of C, named it simply by moving one letter up in the alphabet from B.**
+- ⚡ Fun fact **initially got into coding just for problem-solving, but now it’s become a full-blown passion for exploring and creating new projects!**
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cardano_class) 
