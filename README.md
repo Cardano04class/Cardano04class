@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Automation projects**
 
-- 🌱 I’m currently learning ****C****
+- 🌱 In the journey of learning **C**
 
 - 📫 Reach out on **cardano_class@proton.me**
 
