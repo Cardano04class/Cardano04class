@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Cardano_class</h1>
 <h3 align="center">A curious developer and lifelong learner currently studying at 42. Passionate about DevOps, automation, and AI — always exploring new tools, building practical projects, and growing with the tech community.</h3>
 
-<p align="left"> <a href="https://twitter.com/cardano_class" target="blank"><img src="https://img.shields.io/twitter/follow/cardano_class?logo=twitter&style=for-the-badge" alt="cardano_class" /></a> </p>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cardano_class)
 
 - 🔭 I’m currently working on **Inception**
 
