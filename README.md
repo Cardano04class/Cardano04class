@@ -110,6 +110,7 @@ Looking for a dedicated software engineer or DevOps apprentice? Let's chat!
 
 - 🐦 **X (Twitter):** [@cardano_class](https://x.com/cardano_class)
 - 💼 **GitHub:** [Cardano04class](https://github.com/Cardano04class)
+- 📩 **Mail:** [Cardano_class](cardano_class@proton.me)
 
 ---
 
