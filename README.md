@@ -1,12 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Cardano_class</h1>
 <h3 align="center">A curious developer and lifelong learner currently studying at 42. Passionate about DevOps, automation, and AI — always exploring new tools, building practical projects, and growing with the tech community.</h3>
 
-- 🔭 I’m currently working on **Inception**
-
-- 🌱 I’m currently learning **Foundations of User Experience (UX) Design**
-
-- 📫 How to reach me **cardano_class@proton.me**
-
 - ⚡ Fun fact **I love discovering new things, even if I know I’ll fall into a 2-hour rabbit hole for no reason.**
 
 [![Cardano_Class](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cardano_class)
