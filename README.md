@@ -12,8 +12,8 @@
   <a href="https://x.com/cardano_class" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://github.com/Cardano04class" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://m-amir.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
   </a>
 </p>
 
@@ -129,9 +129,9 @@ Here is a curated selection of my most challenging and rewarding systems and sof
 
 Looking for a dedicated software engineer or DevOps apprentice? Let's chat!
 
+- 🌐 **Portfolio:** [m-amir.xyz](https://m-amir.xyz/)
 - 🐦 **X (Twitter):** [@cardano_class](https://x.com/cardano_class)
-- 💼 **GitHub:** [Cardano04class](https://github.com/Cardano04class)
-- 📩 **Mail:** [Cardano_class](cardano_class@proton.me)
+- 📩 **Mail:** [cardano_class@proton.me](mailto:cardano_class@proton.me)
 
 ---
 
