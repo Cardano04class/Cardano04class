@@ -9,60 +9,80 @@
 .term-frame {fill: #57606a;}
 .term-glow {fill: #1a7f37;}
 .term-prompt {fill: #0969da; font-weight: bold;}
+.ascii-photo {font-family: 'SF Mono', Consolas, Monaco, monospace; font-size: 6.3px; fill: #24292f; font-weight: bold;}
 </style>
 <rect width="985px" height="570px" fill="#ffffff" rx="15" stroke="#d0d7de" stroke-width="1.5"/>
 
-<!-- ASCII Face Art Console Graphic -->
-<text x="25" y="40" class="term-frame">
-<tspan x="25" y="60">             <tspan class="term-glow">,,gg@@@@@@@gg,,</tspan></tspan>
-<tspan x="25" y="80">          <tspan class="term-glow">,g@@@@@@@@@@@@@@@@@g,</tspan></tspan>
-<tspan x="25" y="100">        <tspan class="term-glow">,@@@@@@@@@@@@@@@@@@@@@@@,</tspan></tspan>
-<tspan x="25" y="120">       <tspan class="term-glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan></tspan>
-<tspan x="25" y="140">      <tspan class="term-glow">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan></tspan>
-<tspan x="25" y="160">     <tspan class="term-glow">@@@@@`"***@@@@@@@@@@@***"`@@@@@</tspan></tspan>
-<tspan x="25" y="180">    <tspan class="term-glow">j@@@@</tspan>      "@@@@@@@@@"      <tspan class="term-glow">@@@@k</tspan></tspan>
-<tspan x="25" y="200">    <tspan class="term-glow">@@@@(</tspan>  (O)  )@@@@@@@(  (O)  <tspan class="term-glow">)@@@@</tspan></tspan>
-<tspan x="25" y="220">    <tspan class="term-glow">@@@@@</tspan>      ,@@@@@@@@@,      <tspan class="term-glow">@@@@@</tspan></tspan>
-<tspan x="25" y="240">    "@@@@g    ,@@P  "  Y@@,    g@@@@"</tspan>
-<tspan x="25" y="260">     "@@@@@g@@@@_  ___  _@@@@g@@@@@"</tspan>
-<tspan x="25" y="280">       *@@@@@@@   [___]   @@@@@@@*</tspan>
-<tspan x="25" y="300">         Y@@@@@g         g@@@@@Y</tspan>
-<tspan x="25" y="320">          "@@@@@@g_____g@@@@@@"</tspan>
-<tspan x="25" y="340">             Y@@@@@@@@@@@@@Y</tspan>
-<tspan x="25" y="360">              <tspan class="term-prompt">j@@@@@@@@@@@k</tspan></tspan>
-<tspan x="25" y="380">             <tspan class="term-prompt">,@@@@@@@@@@@@@,</tspan></tspan>
-<tspan x="25" y="400">            <tspan class="term-prompt">,@@@@@@@@@@@@@@@,</tspan></tspan>
-<tspan x="25" y="420">           <tspan class="term-prompt">,@@@@@@@@@@@@@@@@@,</tspan></tspan>
-<tspan x="25" y="440">          <tspan class="term-prompt">,@@@@@@@@@@@@@@@@@@@,</tspan></tspan>
-<tspan x="25" y="460">         <tspan class="term-prompt">,@@@@@@@@@@@@@@@@@@@@@,</tspan></tspan>
+<!-- ASCII Portrait Face Graphic -->
+<text x="25" y="60" class="ascii-photo">
+<tspan x="25" y="60">==+++++++++*+++++++++++++++++++++++++++++++++++*********************************</tspan>
+<tspan x="25" y="72">==++++++++++++++++++++++++++++++++++++*++++*++++++***+**************************</tspan>
+<tspan x="25" y="84">==+++++++++++++++++++++++++++******+**####%%##*+++******************************</tspan>
+<tspan x="25" y="96">==+++++++++++++++++++++*+++*+***##**###*#%%#%%**++*+********#*******************</tspan>
+<tspan x="25" y="108">==+++++++++++++++++++++++++**#%###*#%####%%%%%%%********#**#********************</tspan>
+<tspan x="25" y="120">==++++++++++++++++++++++++**#%+*###*##%%%%%%%%%%%%******************************</tspan>
+<tspan x="25" y="132">==+++++++*+++++++++++++***###%###%%%#%#%@%%@@@@%@%%%#*****##********************</tspan>
+<tspan x="25" y="144">==++++++++++++++++++++*##%##%%#+%**%%%##@@%%@@%#%%%%%%##***###***#*#**#*********</tspan>
+<tspan x="25" y="156">-=++++++++++++++++++*######%%#++*+#===#%*#%@@@@@%%%%%%%%##############*#******#*</tspan>
+<tspan x="25" y="168">:==+++++++++++++++*+**#**####=-------===**##%%%%@@@@@@@%###############*##******</tspan>
+<tspan x="25" y="180">===+++++++++++++++*#*#**###+=-----------=+**##%%%@@%@@@@%%#################*####</tspan>
+<tspan x="25" y="192">==++++++++++++++++**##*#*#+++++*+=--===*****#%%##@@@@@@@%%%%%%##################</tspan>
+<tspan x="25" y="204">==+++++++++++*+++++##*==+=---====***#+#*+++++**%%@@@@@@@@@%%%%##################</tspan>
+<tspan x="25" y="216">==+++++++++++++++++*#*+==--==#%*+==-+*#++#%#%#*%#%@@@@@@@@@%%###################</tspan>
+<tspan x="25" y="228">===+++++++++++++++++*##=-:---=++=*:-+***+++*++***#%@@%@@@@%%%%##################</tspan>
+<tspan x="25" y="240">==+++++++++++++++++++-*=::-----=-::-+****===*+**##%%%#@@@%%%%%%#################</tspan>
+<tspan x="25" y="252">==++++++++++*+++++*++==-:::----::::-=*+*+=====+**#%%#%@@%%@%%%##################</tspan>
+<tspan x="25" y="264">===++++++++++*++++++++:-::::---:-:-=****+++===**#%%##@@@%%%%%%##################</tspan>
+<tspan x="25" y="276">==+++++++++++++++++++++::::---::---===++***++=#**%##%@@%%%%%%###################</tspan>
+<tspan x="25" y="288">==++++++++++++++++++++++:::=-=#---:--===*#+++=*+*%%%@%@%%%%%####################</tspan>
+<tspan x="25" y="300">-==++++++++++++++++++++++:::-:-:--===+***++=+#+*%%%@%%@%%%%#####################</tspan>
+<tspan x="25" y="312">-==++++++++++++++++*+++++++:::::::--===+++++#**#%%%%%%@%%%%######################</tspan>
+<tspan x="25" y="324">-==+++++++++++++++++++++++++:::::::--===+++####%#%%%%%%%%%%######################</tspan>
+<tspan x="25" y="336">==++++++++++++++++++++++++++:-:::--====+*#######%@%%%%%%%%######################</tspan>
+<tspan x="25" y="348">==+++++++++++++++++++++++++++::--===+****####**%@@%%%%%%%#######################</tspan>
+<tspan x="25" y="360">-==++++++++++++++++++++++++++*::::--==+++**#***@@@@@@@%%%%#######################</tspan>
+<tspan x="25" y="372">-==++++++++++++++++++++++++++##:::::--=++***%@@@@@@@@@@@%%#######################</tspan>
+<tspan x="25" y="384">==+++++++++++++++++++++++++*###+-----==++%@@@@@@@@@@@@@%#+##%%##################</tspan>
+<tspan x="25" y="396">-==++++++++++++++++++++++%#%*###%%##*#%@%@@@@@@@@@@@@@%%%@%@%%%%%%@%#########%##</tspan>
+<tspan x="25" y="408">==++++++++++++++++++*++-*-#%####%%%%%%%@@@@@@@@@@@@@@@@%@##@%%%%-=%@@@@%%%####%%</tspan>
+<tspan x="25" y="420">-==+++++++++++++++++:-*#**#%%##%%%%%%%%@@@@@%@@@@@@@@%%%%%%@@%@%%%%**%*#%%%*%%%%</tspan>
+<tspan x="25" y="432">==+++++++++++++*#####*:+=+####%%%%%%%%%%%%%@%@@@@@:+#%%%%%%@**%%+=%#%%#%*#%%+*#%</tspan>
+<tspan x="25" y="444">===-[#=]#=*####**#****#%##%%%%%%%%%%%%%%%@%%%%%%######%%%##%%%#+##*%-*+*%%%@</tspan>
+<tspan x="25" y="456">===++++++**#=#*%###*++###*#-*+##*+#%%%%%%%#%%%%%%%##=#-%*=#+*:-%%*#*=+*#%#%%%@@%</tspan>
+<tspan x="25" y="468">===++++*******#%#####*#+*##%%####+::*%%%%%*%*#####**%*##%##**#::=.#*#*#%%%@##@@@</tspan>
+<tspan x="25" y="480">-==+++-++++-+*#######**.-+#%%+###**+#=.=*.--.-+:%-#%#%+%%%%%%%%*#*##*#%%%@@%%%%@</tspan>
+<tspan x="25" y="492">===++=**#*##**#**####***++=+:-=-=####*#***##%%#####%%##%%%%%%%####-#%@%@#*+%#@@@</tspan>
+<tspan x="25" y="504">===+++=#**##%%*%#:##=##%###+++*###%%%%%%#####%%*=%#=+::*###%-=####*#%@%%+%%%%%%%</tspan>
+<tspan x="25" y="516">===+**######%%%%#########%##****##:+#########%%%%%%%%%%%**%+%#*#*=##@@@@%@@%%%%%</tspan>
+<tspan x="25" y="528">===++.#=*#.+*+%#=#-.##:*:#######**#*#*##*%%%%%%%%%:*-#+###%%%#%#=*+%@@%@@%%#%%@%</tspan>
 </text>
 
 <!-- Neofetch Stats Info -->
-<text x="410" y="50" fill="#24292f">
-<tspan x="410" y="50" class="title">cardano_class@1337</tspan>
-<tspan x="410" y="70" class="border">————————————————————————————————________________————————</tspan>
-<tspan x="410" y="90" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc"> ............. </tspan><tspan class="value">macOS, Debian Linux, Alpine, Docker</tspan>
-<tspan x="410" y="110" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc"> ........... </tspan><tspan class="value">1337 Benguerir (42 Network)</tspan>
-<tspan x="410" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc"> ......... </tspan><tspan class="value">DevOps &amp; Systems Engineering</tspan>
-<tspan x="410" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc"> ............ </tspan><tspan class="value">VS Code, Vim</tspan>
-<tspan x="410" y="170" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Active Software Engineering Apprentice</tspan>
-<tspan x="410" y="190" class="cc">. </tspan>
-<tspan x="410" y="210" class="cc">. </tspan><tspan class="key">Languages.Prog</tspan><tspan class="cc"> . </tspan><tspan class="value">C, C++, TypeScript, JavaScript, Python</tspan>
-<tspan x="410" y="230" class="cc">. </tspan><tspan class="key">Languages.Dev</tspan><tspan class="cc"> .. </tspan><tspan class="value">Docker, Kubernetes, Nginx, Bash Shell, AWS</tspan>
-<tspan x="410" y="250" class="cc">. </tspan><tspan class="key">Languages.Web</tspan><tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, Node.js, PostgreSQL, MariaDB</tspan>
-<tspan x="410" y="270" class="cc">. </tspan>
-<tspan x="410" y="290" class="cc">. </tspan><tspan class="key">Hobbies.Dev</tspan><tspan class="cc"> .... </tspan><tspan class="value">Systems, Homelabbing, Automation, WebSockets</tspan>
-<tspan x="410" y="310" class="cc">. </tspan><tspan class="key">Hobbies.Org</tspan><tspan class="cc"> .... </tspan><tspan class="value">DevOps &amp; Frontend @Almalgo</tspan>
-<tspan x="410" y="330" class="cc">. </tspan>
-<tspan x="410" y="350" class="title">- Contact</tspan> <tspan class="border">————————————————————————————————________________————</tspan>
-<tspan x="410" y="370" class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc"> ...... </tspan><tspan class="value">https://m-amir.xyz/</tspan>
-<tspan x="410" y="390" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc"> .......... </tspan><tspan class="value">cardano_class@proton.me</tspan>
-<tspan x="410" y="410" class="cc">. </tspan><tspan class="key">Twitter (X)</tspan><tspan class="cc"> .... </tspan><tspan class="value">@cardano_class</tspan>
-<tspan x="410" y="430" class="cc">. </tspan>
-<tspan x="410" y="450" class="title">- Featured Projects</tspan> <tspan class="border">————————————————————————————————————————————</tspan>
-<tspan x="410" y="470" class="cc">. </tspan><tspan class="key">ft_transcendence</tspan><tspan class="cc">. </tspan><tspan class="value">Next.js, TS, WebSockets, PostgreSQL, Docker</tspan>
-<tspan x="410" y="490" class="cc">. </tspan><tspan class="key">Inception</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Docker, Nginx, MariaDB, WordPress, Alpine</tspan>
-<tspan x="410" y="510" class="cc">. </tspan><tspan class="key">minishell</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Unix Systems Programming in C (Pipes, Signals)</tspan>
-<tspan x="410" y="530" class="cc">. </tspan><tspan class="key">push_swap</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Optimized Complexity Sorting Algorithms in C</tspan>
+<text x="360" y="50" fill="#24292f">
+<tspan x="360" y="50" class="title">cardano_class@1337</tspan>
+<tspan x="360" y="70" class="border">————————————————————————————————————————————————————————————————————</tspan>
+<tspan x="360" y="90" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc"> ............. </tspan><tspan class="value">macOS, Debian Linux, Alpine, Docker</tspan>
+<tspan x="360" y="110" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc"> ........... </tspan><tspan class="value">1337 Benguerir (42 Network)</tspan>
+<tspan x="360" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc"> ......... </tspan><tspan class="value">DevOps &amp; Systems Engineering</tspan>
+<tspan x="360" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc"> ............ </tspan><tspan class="value">VS Code, Vim</tspan>
+<tspan x="360" y="170" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Active Software Engineering Apprentice</tspan>
+<tspan x="360" y="190" class="cc">. </tspan>
+<tspan x="360" y="210" class="cc">. </tspan><tspan class="key">Languages.Prog</tspan><tspan class="cc"> . </tspan><tspan class="value">C, C++, TypeScript, JavaScript, Python</tspan>
+<tspan x="360" y="230" class="cc">. </tspan><tspan class="key">Languages.Dev</tspan><tspan class="cc"> .. </tspan><tspan class="value">Docker, Kubernetes, Nginx, Bash Shell, AWS</tspan>
+<tspan x="360" y="250" class="cc">. </tspan><tspan class="key">Languages.Web</tspan><tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, Node.js, PostgreSQL, MariaDB</tspan>
+<tspan x="360" y="270" class="cc">. </tspan>
+<tspan x="360" y="290" class="cc">. </tspan><tspan class="key">Hobbies.Dev</tspan><tspan class="cc"> .... </tspan><tspan class="value">Systems, Homelabbing, Automation, WebSockets</tspan>
+<tspan x="360" y="310" class="cc">. </tspan><tspan class="key">Hobbies.Org</tspan><tspan class="cc"> .... </tspan><tspan class="value">DevOps &amp; Frontend @Almalgo</tspan>
+<tspan x="360" y="330" class="cc">. </tspan>
+<tspan x="360" y="350" class="title">- Contact</tspan> <tspan class="border">————————————————————————————————————————————————————————</tspan>
+<tspan x="360" y="370" class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc"> ...... </tspan><tspan class="value">https://m-amir.xyz/</tspan>
+<tspan x="360" y="390" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc"> .......... </tspan><tspan class="value">cardano_class@proton.me</tspan>
+<tspan x="360" y="410" class="cc">. </tspan><tspan class="key">Twitter (X)</tspan><tspan class="cc"> .... </tspan><tspan class="value">@cardano_class</tspan>
+<tspan x="360" y="430" class="cc">. </tspan>
+<tspan x="360" y="450" class="title">- Featured Projects</tspan> <tspan class="border">————————————————————————————————————————————————</tspan>
+<tspan x="360" y="470" class="cc">. </tspan><tspan class="key">ft_transcendence</tspan><tspan class="cc">. </tspan><tspan class="value">Next.js, TS, WebSockets, PostgreSQL, Docker</tspan>
+<tspan x="360" y="490" class="cc">. </tspan><tspan class="key">Inception</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Docker, Nginx, MariaDB, WordPress, Alpine</tspan>
+<tspan x="360" y="510" class="cc">. </tspan><tspan class="key">minishell</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Unix Systems Programming in C (Pipes, Signals)</tspan>
+<tspan x="360" y="530" class="cc">. </tspan><tspan class="key">push_swap</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Optimized Complexity Sorting Algorithms in C</tspan>
 </text>
 </svg>
