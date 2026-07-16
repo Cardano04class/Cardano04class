@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', Consolas, Monaco, 'Andale Mono', monospace" width="985px" height="570px" font-size="14px">
+<style>
+.key {fill: #ffa657; font-weight: bold;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+.title {fill: #39FF14; font-weight: bold;}
+.border {fill: #30363d;}
+.term-frame {fill: #8b949e;}
+.term-glow {fill: #39FF14;}
+.term-prompt {fill: #58a6ff; font-weight: bold;}
+</style>
+<rect width="985px" height="570px" fill="#0d1117" rx="15" stroke="#30363d" stroke-width="1.5"/>
+
+<!-- ASCII Terminal Console Graphic -->
+<text x="25" y="40" class="term-frame">
+<tspan x="25" y="60"> ___________________________________</tspan>
+<tspan x="25" y="80">/                                   \</tspan>
+<tspan x="25" y="100">|   _____________________________   |</tspan>
+<tspan x="25" y="120">|  |                             |  |</tspan>
+<tspan x="25" y="140">|  |  <tspan class="term-prompt">cardano_class@42</tspan>:<tspan class="term-glow">~$</tspan> _     |  |</tspan>
+<tspan x="25" y="160">|  |                             |  |</tspan>
+<tspan x="25" y="180">|  |  <tspan class="term-glow">> mastering systems</tspan>       |  |</tspan>
+<tspan x="25" y="200">|  |  <tspan class="term-glow">> automating pipelines</tspan>    |  |</tspan>
+<tspan x="25" y="220">|  |  <tspan class="term-glow">> deploying products</tspan>      |  |</tspan>
+<tspan x="25" y="240">|  |_____________________________|  |</tspan>
+<tspan x="25" y="260">|                                   |</tspan>
+<tspan x="25" y="280">\___________________________________/</tspan>
+<tspan x="25" y="300">        \_________________/</tspan>
+<tspan x="25" y="320">         \_______________/</tspan>
+</text>
+
+<!-- ASCII Server Rack Graphic -->
+<text x="25" y="350" class="term-frame">
+<tspan x="25" y="370">      ┌───────────────────────┐</tspan>
+<tspan x="25" y="390">      │ <tspan class="term-glow">[●]</tspan>  ALMALGO DevOps   │</tspan>
+<tspan x="25" y="410">      ├───────────────────────┤</tspan>
+<tspan x="25" y="430">      │ <tspan class="term-glow">[●]</tspan>  42 Infrastructure │</tspan>
+<tspan x="25" y="450">      ├───────────────────────┤</tspan>
+<tspan x="25" y="470">      │ <tspan class="term-glow">[●]</tspan>  Production Built │</tspan>
+<tspan x="25" y="490">      └───────────────────────┘</tspan>
+</text>
+
+<!-- Neofetch Stats Info -->
+<text x="410" y="50" fill="#c9d1d9">
+<tspan x="410" y="50" class="title">cardano_class@42</tspan>
+<tspan x="410" y="70" class="border">————————————————————————————————————————————————————————</tspan>
+<tspan x="410" y="90" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc"> ............. </tspan><tspan class="value">macOS, Debian Linux, Alpine, Docker</tspan>
+<tspan x="410" y="110" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc"> ........... </tspan><tspan class="value">42 Nice (42 Network)</tspan>
+<tspan x="410" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc"> ......... </tspan><tspan class="value">DevOps &amp; Systems Engineering</tspan>
+<tspan x="410" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc"> ............ </tspan><tspan class="value">VS Code, Vim</tspan>
+<tspan x="410" y="170" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Active Software Engineering Apprentice</tspan>
+<tspan x="410" y="190" class="cc">. </tspan>
+<tspan x="410" y="210" class="cc">. </tspan><tspan class="key">Languages.Prog</tspan><tspan class="cc"> . </tspan><tspan class="value">C, C++, TypeScript, JavaScript, Python</tspan>
+<tspan x="410" y="230" class="cc">. </tspan><tspan class="key">Languages.Dev</tspan><tspan class="cc"> .. </tspan><tspan class="value">Docker, Kubernetes, Nginx, Bash Shell, AWS</tspan>
+<tspan x="410" y="250" class="cc">. </tspan><tspan class="key">Languages.Web</tspan><tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, Node.js, PostgreSQL, MariaDB</tspan>
+<tspan x="410" y="270" class="cc">. </tspan>
+<tspan x="410" y="290" class="cc">. </tspan><tspan class="key">Hobbies.Dev</tspan><tspan class="cc"> .... </tspan><tspan class="value">Systems, Homelabbing, Automation, WebSockets</tspan>
+<tspan x="410" y="310" class="cc">. </tspan><tspan class="key">Hobbies.Org</tspan><tspan class="cc"> .... </tspan><tspan class="value">DevOps &amp; Frontend @Almalgo</tspan>
+<tspan x="410" y="330" class="cc">. </tspan>
+<tspan x="410" y="350" class="title">- Contact</tspan> <tspan class="border">————————————————————————————————————————————————————</tspan>
+<tspan x="410" y="370" class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc"> ...... </tspan><tspan class="value">https://m-amir.xyz/</tspan>
+<tspan x="410" y="390" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc"> .......... </tspan><tspan class="value">cardano_class@proton.me</tspan>
+<tspan x="410" y="410" class="cc">. </tspan><tspan class="key">Twitter (X)</tspan><tspan class="cc"> .... </tspan><tspan class="value">@cardano_class</tspan>
+<tspan x="410" y="430" class="cc">. </tspan>
+<tspan x="410" y="450" class="title">- Featured Projects</tspan> <tspan class="border">————————————————————————————————————————————</tspan>
+<tspan x="410" y="470" class="cc">. </tspan><tspan class="key">ft_transcendence</tspan><tspan class="cc">. </tspan><tspan class="value">Next.js, TS, WebSockets, PostgreSQL, Docker</tspan>
+<tspan x="410" y="490" class="cc">. </tspan><tspan class="key">Inception</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Docker, Nginx, MariaDB, WordPress, Alpine</tspan>
+<tspan x="410" y="510" class="cc">. </tspan><tspan class="key">minishell</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Unix Systems Programming in C (Pipes, Signals)</tspan>
+<tspan x="410" y="530" class="cc">. </tspan><tspan class="key">push_swap</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Optimized Complexity Sorting Algorithms in C</tspan>
+</text>
+</svg>
